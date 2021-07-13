@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+```js
 const zombiex = {
 name:"Abbas",
 age:"16",
