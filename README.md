@@ -8,7 +8,7 @@ programming_languages:["Html","css","JavaScript"],
 libraries:["Discord.js","Jquery","Bootstrap"]
 };
 ```
-<br>
+
 <!--   Stats -->
 ### 📊 GitHub Stats:
 ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=ZombieXDev&theme=nord&show_icons=true&count_private=true)
