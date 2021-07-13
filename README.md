@@ -9,8 +9,5 @@ libraries:["Discord.js","Jquery","Bootstrap"]
 };
 ```
 <br>
-### 😀 My Discord account:
-<a href="https://discord.gg/crJx77aEsq">
-  <img width=500 src="https://discord.c99.nl/widget/theme-1/708708508262203502.png"/>
-</a>
- 
+### My Acounts
+<img width=500 src="https://discord.c99.nl/widget/theme-1/708708508262203502.png"/>
