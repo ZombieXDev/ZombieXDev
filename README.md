@@ -12,7 +12,11 @@ libraries:["Discord.js","Jquery","Bootstrap"]
 <!--   Stats -->
 ### 📊 GitHub Stats:
 ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=ZombieXDev&theme=nord&show_icons=true&count_private=true)
-  
+ 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZombieXDev&theme=github)
+ 
 
 <h4>😃 My Discord Acount :</h4>
 <a href="https://discord.gg/crJx77aEsq">
