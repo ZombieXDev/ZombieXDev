@@ -8,6 +8,11 @@ programming_languages:["Html","css","JavaScript"],
 libraries:["Discord.js","Jquery","Bootstrap"]
 };
 ```
+<br />
+
+---
+
+<br />
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
