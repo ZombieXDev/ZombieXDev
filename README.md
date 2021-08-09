@@ -2,7 +2,7 @@
 ```js
 const zombiex = {
 name:"Abbas",
-age:"16",
+age:"17",
 country:"Iraq",
 programming_languages:["Html","css","JavaScript"],
 libraries:["Discord.js","Jquery","Bootstrap"]
