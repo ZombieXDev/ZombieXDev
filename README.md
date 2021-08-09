@@ -5,7 +5,7 @@ name:"Abbas",
 age:"17",
 country:"Iraq",
 programming_languages:["Html","css","JavaScript"],
-libraries:["Discord.js","Jquery","Bootstrap"]
+libraries:["Discord.js","Eris.js","Express.js","Jquery","Bootstrap"]
 };
 ```
 <br />
