@@ -5,7 +5,7 @@
   👋 Hi, I'm <a href="https://github.com/ZombieXDev" target="_blank">Abbas (ZombieX)</a>
 </h1>
 <p align="center">
-  <em>Backend Developer | System Builder | Code Enthusiast</em><br />
+  <em>Full-Stack Developer | System Builder | Code Enthusiast</em><br />
   <strong>20 y/o</strong> | From Iraq 🇮🇶 | Passionate about building efficient solutions.
 </p>
 
@@ -31,7 +31,7 @@ I’m a passionate backend developer from Iraq, fluent in multiple programming l
 
 | 🧑‍💻 Languages      | 🛠️ Libraries & Frameworks      | 🎮 Hobbies                 |
 | ------------------ | ----------------------------- | ------------------------- |
-| HTML, CSS, JavaScript | Discord.js, Eris.js, Express.js, Bootstrap | Coding, Building Systems, Gaming |
+| HTML, CSS, JavaScript | Discord.js, Eris.js, Express.js, Bootstrap , React , React Native | Coding, Building Systems, Gaming |
 
 ---
 
